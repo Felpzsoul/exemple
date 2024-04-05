@@ -1,3 +1,4 @@
 module.exports = {
-  name: "Felpzsouls"
+  name: "Felpzsouls",
+  description: "A just begginer fullstack developer"
 }
